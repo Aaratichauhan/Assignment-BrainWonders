@@ -623,15 +623,6 @@ input::placeholder {
 .scroll-button:hover {
   background-color: #0056b3;
 }
-
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
-  margin: 0;
-  padding: 20px;
-  text-align: center;
-}
-
 .awards {
   text-align: center;
   padding: 20px;
